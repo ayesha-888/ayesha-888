@@ -7,6 +7,9 @@
 
 - All of my projects are available at [(coming soon!)]((coming soon!))
 
+**About Me:**
+- I enjoy crocheting, reading, and watching sitcoms
+
 - How to reach me **ayeshadaft@gmail.com**
 
 <h3 align="left">Connect with me: ayesha-888 </h3>
