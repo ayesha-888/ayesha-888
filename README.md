@@ -9,7 +9,7 @@
 
 - How to reach me **ayeshadaft@gmail.com**
 
-<h3 align="left">Connect with me:ayesha-888 </h3>
+<h3 align="left">Connect with me: ayesha-888 </h3>
 <p align="left">
 </p>
 
