@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Ayesha</h1>
 <h3 align="center">A high school student from NYC</h3>
 
-Welcome to my GitHub profile! I am an incoming college freshman at Bryn Mawr College as a Computer Science major with a minor in Psychology. 
-^ that looks 1000x better than rising HS senior :))
+Welcome to my GitHub profile! I am an incoming college freshman at CUNY Hunter College as a Computer Science major with a minor in Psychology. 
+^ that looks 1000x worse than Bryn Mawr :((
 
 - I’m currently working on **creating a portfolio.**
 
