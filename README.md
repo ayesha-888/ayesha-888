@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Ayesha</h1>
-<h3 align="center">A high school student/aspiring developer from NY</h3>
+<h3 align="center">A high school student/aspiring developer from NYC</h3>
 
 - I’m currently working on **creating a portfolio.**
 
