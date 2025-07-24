@@ -6,7 +6,7 @@ In the future, I hope to become a cybersecurity engineer!
 
 About Me:
 - I enjoy crocheting, reading, and watching sitcoms
-- Favorite online game: [CP Journey (club penguin dupe)] ("https://www.cpjourney.net/)
+- Favorite online game: [CP Journey (club penguin dupe)] (https://www.cpjourney.net/)
 
 Projects:
 - I've recently finished up making a choose your own adventure program using Python.
@@ -17,7 +17,7 @@ Education:
 - I’m currently relearning HTML5 and CSS3.
 
 <h3 align="left">Connect with me: ayesha-888 </h3>
-You can reach me @ --> [ayeshadaft@gmail.com](mailto:ayeshadaft@gmail.com)
+You can reach me at --> [ayeshadaft@gmail.com](mailto:ayeshadaft@gmail.com)
 <p align="left"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
