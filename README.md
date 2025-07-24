@@ -17,7 +17,7 @@ Education:
 - I’m currently relearning HTML5 and CSS3.
 
 <h3 align="left">Connect with me: ayesha-888 </h3>
-You can reach me at [ayeshadaft@gmail.com](mailto:ayeshadaft@gmail.com)
+You can reach me at: [ayeshadaft@gmail.com](mailto:ayeshadaft@gmail.com)
 <p align="left"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
