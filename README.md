@@ -6,7 +6,7 @@ In the future, I hope to become a cybersecurity engineer!
 
 About Me:
 - I enjoy crocheting, reading, and watching sitcoms
-- Favorite online game: [CP Journey (club penguin dupe)] (https://www.cpjourney.net/)
+- Favorite online game: CP Journey (club penguin dupe): https://www.cpjourney.net/
 
 Projects:
 - I've recently finished up making a choose your own adventure program using Python.
