@@ -1,24 +1,26 @@
 <h1 align="center">Hi! I'm Ayesha</h1>
 <h3 align="center">A high school student from NYC</h3>
 
-Welcome to my GitHub profile! I am an incoming college freshman at CUNY Hunter College as a Computer Science major with a minor in Psychology. 
-^ that looks 1000x worse than Bryn Mawr :((
+Welcome to my GitHub profile! I am a rising senior hoping to develop my coding and professional skills in order to succeed in today's job market. 
+In the future, I hope to become a cybersecurity engineer!
 
-- I’m currently working on **creating a portfolio.**
+About Me:
+- I enjoy crocheting, reading, and watching sitcoms
+- Favorite online game: [CP Journey (club penguin dupe)] ("https://www.cpjourney.net/)
 
-- I’m currently relearning **HTML5 and CSS3.**
+Projects:
+- I've recently finished up making a choose your own adventure program using Python.
+- I’m currently working on creating a personal portfolio website using HTML5, CSS3, and JavaScript.
+
+Education:
+- I'm starting to learn Git and GitHub basics in order to collaborate on projects.
+- I’m currently relearning HTML5 and CSS3.
 
 - All of my projects are available at ((coming soon!))
 
-**About Me:**
-- I enjoy crocheting, reading, and watching sitcoms
-- Favorite online game: <a href="https://www.cpjourney.net/"> </a>
-
-- How to reach me **ayeshadaft@gmail.com**
-
 <h3 align="left">Connect with me: ayesha-888 </h3>
-<p align="left">
-</p>
+You can reach me @ --> [ayeshadaft@gmail.com](mailto:ayeshadaft@gmail.com)
+<p align="left"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
