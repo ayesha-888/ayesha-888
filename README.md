@@ -16,8 +16,6 @@ Education:
 - I'm starting to learn Git and GitHub basics in order to collaborate on projects.
 - I’m currently relearning HTML5 and CSS3.
 
-- All of my projects are available at ((coming soon!))
-
 <h3 align="left">Connect with me: ayesha-888 </h3>
 You can reach me @ --> [ayeshadaft@gmail.com](mailto:ayeshadaft@gmail.com)
 <p align="left"> </p>
