@@ -10,7 +10,7 @@ About Me:
 
 Projects:
 - I've recently finished up making a choose your own adventure program using Python.
-- I’m currently working on creating a personal portfolio website using HTML5, CSS3, and JavaScript.
+- I’m currently working on creating a personal portfolio website using HTML5, CSS3, Bootstrap, and JavaScript.
 
 Education:
 - I'm starting to learn Git and GitHub basics in order to collaborate on projects.
