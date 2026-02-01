@@ -9,8 +9,8 @@ About Me:
 - Favorite online game: CP Journey (club penguin dupe): https://www.cpjourney.net/
 
 Projects:
-- I've recently finished up making a choose your own adventure program using Python.
-- I’m currently working on creating a personal portfolio website using HTML5, CSS3, Bootstrap, and JavaScript.
+- I've recently finished up making an AI backed college reccomender site.
+- I’m currently working on improving my personal portfolio website using HTML5, CSS3, Bootstrap, and JavaScript.
 
 Education:
 - I'm starting to learn Git and GitHub basics in order to collaborate on projects.
