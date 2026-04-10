@@ -1,8 +1,7 @@
 <h1 align="center">Hi! I'm Ayesha</h1>
 <h3 align="center">A high school student from NYC</h3>
 
-Welcome to my GitHub profile! I am a rising senior hoping to develop my coding and professional skills in order to succeed in today's job market. 
-In the future, I hope to become a cybersecurity engineer!
+Welcome to my GitHub profile! I am an incoming computer science major experimenting with coding for fun. 
 
 About Me:
 - I enjoy crocheting, reading, and watching sitcoms
