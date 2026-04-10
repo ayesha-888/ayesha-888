@@ -3,17 +3,13 @@
 
 Welcome to my GitHub profile! I am an incoming computer science major experimenting with coding for fun. 
 
-About Me:
-- I enjoy crocheting, reading, and watching sitcoms
-- Favorite online game: CP Journey (club penguin dupe): https://www.cpjourney.net/
-
 Projects:
 - I've recently finished up making an AI backed college reccomender site.
 - I’m currently working on improving my personal portfolio website using HTML5, CSS3, Bootstrap, and JavaScript.
 
 Education:
-- I'm starting to learn Git and GitHub basics in order to collaborate on projects.
-- I’m currently relearning HTML5 and CSS3.
+- I'm learning Git and GitHub basics in order to collaborate on projects.
+- I’m currently refreshing my HTML5 and CSS3 skills.
 
 <h3 align="left">Connect with me: ayesha-888 </h3>
 You can reach me @ --> ayeshadaft@gmail.com
