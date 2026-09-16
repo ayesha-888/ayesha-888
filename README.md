@@ -1,19 +1,44 @@
-<h1 align="center">Hi! I'm Ayesha</h1>
-<h3 align="center">A high school student from NYC</h3>
+<p align="center">
+  <a href="https://github.com/ayesha-888">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00c7fc&fontSize=54&height=90&width=538&text=Hi!%20I'm%20Ayesha" alt="Hi! I&#39;m Ayesha" />
+  </a>
+</p>
 
-Welcome to my GitHub profile! I am an incoming computer science major experimenting with coding for fun. 
+### 🚀 About Me
 
-Projects:
-- I've recently finished up making an AI backed college reccomender site.
-- I’m currently working on improving my personal portfolio website using HTML5, CSS3, Bootstrap, and JavaScript.
+🔭 &nbsp;I'm currently working on **my Arduino skills**  
+🌱 &nbsp;I'm currently learning **C++**
 
-Education:
-- I'm learning Git and GitHub basics in order to collaborate on projects.
-- I’m currently refreshing my HTML5 and CSS3 skills.
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me: ayesha-888 </h3>
-You can reach me @ --> ayeshadaft@gmail.com
-<p align="left"> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adaft/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayeshadaft@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ayesha-888&layout=compact&theme=tokyonight&title_color=00c7fc&icon_color=00c7fc&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/ayesha-888">ayesha-888</a></i></p>
