@@ -4,12 +4,12 @@
   </a>
 </p>
 
-### 🚀 About Me
+### About Me
 
-🔭 &nbsp;I'm currently working on **my Arduino skills**  
-🌱 &nbsp;I'm currently learning **C++**
+ &nbsp;I'm currently working on **HL_starbie**  
+ &nbsp;I'm currently learning **C++**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -21,14 +21,14 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adaft/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ayeshadaft@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ayesha-888&layout=compact&theme=tokyonight&title_color=00c7fc&icon_color=00c7fc&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
